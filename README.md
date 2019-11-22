@@ -15,10 +15,10 @@ use jQuery and Js build a website
 ## assgnment 05
 use jQuery and Js build a website
 ## assgnment 06
-
+learn syn/asynchronization
 ## assgnment 07
 web game: 2048
 ## assgnment 08
-learn syn/asynchronization
+learn backend programming
 ## assgnment 09
 create a social web app use ajax
