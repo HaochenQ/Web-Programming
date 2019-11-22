@@ -1,6 +1,6 @@
 # Web-Programming
 related knowledge:
-html, CSS, Bulma, jQuery, ajax
+html,  Node.js, CSS, Bulma, jQuery, ajax
 >details about each assignment is demonsstated in spec files in each directory
 ## assgnment 00
 basic softwares and library
