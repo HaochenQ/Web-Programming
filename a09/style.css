@@ -1,0 +1,168 @@
+#root {
+    background-color: rgb(219, 219, 219);
+    padding: 1%;
+}
+
+.author {
+    display: inline-block;
+}
+
+.tweetBody {
+    display: inline-block;
+}
+
+.inputPart {
+    margin-left: 0.5%;
+}
+
+.tweet {
+    background-color: rgb(231, 231, 231);
+    margin: 0.5%;
+    padding: 0.5%;
+}
+
+.editCard {
+    background-color: rgb(231, 231, 231);
+    margin: 0.5%;
+    padding: 0.5%;
+}
+
+.replyCard {
+    background-color: rgb(231, 231, 231);
+    margin: 0.5%;
+    padding: 0.5%;
+}
+
+.replyViewCard {
+    background-color: rgb(194, 193, 193);
+    margin: 0.5%;
+    padding: 0.5%;
+}
+
+.retweetCard {
+    background-color: rgb(231, 231, 231);
+    margin: 0.5%;
+    padding: 0.5%;
+}
+
+.attribute {
+    display: inline-block;
+    padding-inline-end: 13.3%;
+}
+
+.newPost {
+    margin-left: 0.5%;
+    background-color: rgb(182, 181, 181);
+    font-size: 12px;
+    text-align: center;
+    width: 6%;
+}
+
+.cancelInput {
+    margin-left: 0.5%;
+    background-color: rgb(182, 181, 181);
+    width: 5%;
+}
+
+.cancelEdit {
+    margin-inline-end: 15%;
+    font-size: 12px;
+    background-color: rgb(182, 181, 181);
+    width: 5%;
+}
+
+.cancelReply {
+    margin-inline-end: 15%;
+    background-color: rgb(182, 181, 181);
+    font-size: 12px;
+    width: 5%;
+}
+
+.cancelRetweet {
+    margin-inline-end: 15%;
+    font-size: 12px;
+    background-color: rgb(182, 181, 181);
+}
+
+.edit {
+    margin-inline-end: 15%;
+    font-size: 12px;
+    background-color: rgb(182, 181, 181);
+}
+
+.Delete {
+    margin-inline-end: 40%;
+    font-size: 12px;
+    background-color: rgb(182, 181, 181);
+}
+
+.like {
+    font-size: 12px;
+    text-align: center;
+    margin-inline-end: 15%;
+    background-color: rgb(182, 181, 181);
+    width: 5%;
+}
+
+.unlike {
+    font-size: 12px;
+    text-align: center;
+    margin-inline-end: 15%;
+    background-color: rgb(182, 181, 181);
+    width: 5%;
+}
+
+.retweet {
+    font-size: 12px;
+    text-align: center;
+    margin-inline-end: 15%;
+    background-color: rgb(182, 181, 181);
+    width: 5%;
+}
+
+.reply {
+    font-size: 12px;
+    text-align: center;
+    margin-inline-end: 15%;
+    background-color: rgb(182, 181, 181);
+    width: 5%;
+}
+
+.closeReplyView {
+    margin-left: 0.5%;
+    background-color: rgb(182, 181, 181);
+    width: 5%;
+    font-size: 12px;
+}
+
+.viewReply {
+    font-size: 12px;
+    text-align: center;
+    margin-inline-end: 15%;
+    background-color: rgb(182, 181, 181);
+    width: 7%;
+}
+
+.submitEdit {
+    margin-inline-start: 16%;
+    font-size: 12px;
+    background-color: rgb(182, 181, 181);
+}
+
+.submitReply {
+    margin-inline-start: 16%;
+    font-size: 12px;
+    background-color: rgb(170, 170, 170);
+}
+
+.submitRetweet {
+    margin-inline-start: 16%;
+    background-color: rgb(182, 181, 181);
+    font-size: 12px;
+}
+
+.submitInput {
+    margin-inline-start: 16%;
+    font-size: 12px;
+    background-color: rgb(182, 181, 181);
+}

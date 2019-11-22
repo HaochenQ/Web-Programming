@@ -1,3 +1,4 @@
 # Web-Programming
 related knowledge:
-html, CSS, Bulma, jQuery
+html, CSS, Bulma, jQuery, ajax
+

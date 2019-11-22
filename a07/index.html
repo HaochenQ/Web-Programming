@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>2048 GO</title>
+    <script src="./engine/game.js" type="module"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="main">
+            <div class="gameName">Come and Play 2048!</div>
+            <div class="instruction">Rules: Using the ↑ ↓ ← → to move tiles to get 2048!</div>
+            <div class="score"></div>
+
+            <div id="panel" class="tiles"></div>
+            <button id='newGame' style="float: inline-end;;">NEW GAME</button>
+        </div>
+    </div>
+    <script src="controller.js" type="module"></script>
+    <script src="view.js"></script>
+</body>
+
+</html>

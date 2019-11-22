@@ -1,0 +1,123 @@
+html {
+    display: table;
+    margin: auto;
+}
+
+.gameName {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.instruction {
+    font-size: 20px;
+    font-style: inherit;
+}
+
+#panel {
+    width: 500px;
+    height: auto;
+    align-content: center;
+}
+
+#newGame {
+    background-color: royalblue;
+    align-items: center;
+}
+
+.tile0 {
+    background-color: rgb(250, 224, 137);
+    width: 25%;
+    height: 110px;
+    text-align: center;
+}
+
+.tile2 {
+    background-color: rgb(155, 125, 87);
+    width: 25%;
+    height: 110px;
+    text-align: center;
+    font-size: 30px;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.tile4 {
+    background-color: aqua;
+    width: 25%;
+    height: 110px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tile8 {
+    background-color: aquamarine;
+    width: 25%;
+    height: 110px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tile16 {
+    background-color: rgb(3, 114, 114);
+    width: 25%;
+    height: 110px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tile32 {
+    background-color: burlywood;
+    width: 25%;
+    height: 110px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tile64 {
+    background-color: cadetblue;
+    width: 25%;
+    height: 110px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tile128 {
+    background-color: chartreuse;
+    width: 25%;
+    height: 110px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tile256 {
+    background-color: chocolate;
+    width: 25%;
+    height: 110px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tile512 {
+    background-color: coral;
+    width: 25%;
+    height: 110px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tile1024 {
+    background-color: cornflowerblue;
+    width: 25%;
+    height: 110px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tile2048 {
+    background-color: brown;
+    width: 25%;
+    height: 110px;
+    text-align: center;
+    font-size: 30px;
+}
