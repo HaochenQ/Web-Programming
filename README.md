@@ -14,11 +14,12 @@ javascript
 use jQuery and Js build a website
 ## assgnment 05
 use jQuery and Js build a website
+![image for a05](https://github.com/HaochenQ/Web-Programming/blob/master/a05/Screen%20Shot%202019-11-25%20at%205.36.14%20pm.png)
 ## assgnment 06
 learn syn/asynchronization
 ## assgnment 07
 web game: 2048
-![image for a09](https://github.com/HaochenQ/Web-Programming/blob/master/a07/Screen%20Shot%202019-11-25%20at%205.33.20%20pm.png)
+![image for a07](https://github.com/HaochenQ/Web-Programming/blob/master/a07/Screen%20Shot%202019-11-25%20at%205.33.20%20pm.png)
 ## assgnment 08
 learn backend programming
 ## assgnment 09
