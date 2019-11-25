@@ -22,4 +22,4 @@ web game: 2048
 learn backend programming
 ## assgnment 09
 create a social web app use ajax
-![image for a09](link-to-image)
+![image for a09](https://github.com/HaochenQ/Web-Programming/blob/master/a09/Screen%20Shot%202019-11-25%20at%205.26.37%20pm.png)
