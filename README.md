@@ -18,7 +18,7 @@ use jQuery and Js build a website
 learn syn/asynchronization
 ## assgnment 07
 web game: 2048
-![image for a09](https://github.com/HaochenQ/Web-Programming/blob/master/a09/Screen%20Shot%202019-11-25%20at%205.26.37%20pm.png)
+![image for a09](https://github.com/HaochenQ/Web-Programming/blob/master/a07/Screen%20Shot%202019-11-25%20at%205.33.20%20pm.png)
 ## assgnment 08
 learn backend programming
 ## assgnment 09
