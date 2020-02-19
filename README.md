@@ -4,6 +4,8 @@ html,  Node.js, CSS, Bulma, jQuery, axios
 >details about each assignment is demonsstated in spec files in each directory
 ## assgnment 00
 basic softwares and library
+*setup NODE.js environment
+*setup Visual Studio Code
 ## assgnment 01
 create your first website
 ## assgnment 02
